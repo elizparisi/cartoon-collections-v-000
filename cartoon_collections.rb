@@ -10,8 +10,9 @@ def summon_captain_planet(planateer_calls)# code an argument here
   planateer_calls.map! { |planateer_calls| planateer_calls.capitalize + "!"}
 end
 
-def long_planeteer_calls# code an argument here
+def long_planeteer_calls(calls)# code an argument here
   # Your code here
+  calls.any?
 end
 
 def find_the_cheese# code an argument here
