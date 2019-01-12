@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(planateer_calls)# code an argument here
   # Your code here
-  planateer_calls.map! 
+  planateer_calls.map! { |planateer_calls
   
 end
 
