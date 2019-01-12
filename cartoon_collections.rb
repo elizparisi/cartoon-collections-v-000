@@ -7,7 +7,7 @@ end
 
 def summon_captain_planet(planateer_calls)# code an argument here
   # Your code here
-  planateer_calls.each do | 
+  planateer_calls.map 
   
 end
 
